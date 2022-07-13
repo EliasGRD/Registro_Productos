@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+<<<<<<< HEAD
+    "/js/RP_scripts.js": "/js/RP_scripts.js",
+    "/js/RP_autocomplete.js": "/js/RP_autocomplete.js",
+    "/js/RP_show_scripts.js": "/js/RP_show_scripts.js",
+=======
+    "/js/reca_scripts.js": "/js/reca_scripts.js",
+    "/js/reca_autocomplete.js": "/js/reca_autocomplete.js",
+    "/js/reca_show_scripts.js": "/js/reca_show_scripts.js",
+>>>>>>> 00cda4acb3797cb18199c6ecee158af8581fe52d
+    "/css/app.css": "/css/app.css"
+}
